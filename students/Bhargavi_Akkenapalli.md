@@ -1,9 +1,9 @@
-# 👨‍💻 Student Profile: Akkenapalli Bhargavi
+# 👨‍💻 Student Profile: AKKENAPALLI BHARGAVI
 
 ---
 ## 📌 Personal & Contact Details
 * **Full Name:**Akkenapalli Bhargavi
-* **Roll Number / College ID:**24241a6603
+* **Roll Number / College ID:**24241A6603
 * **College:** Gokaraju Rangaraju Institute of Engineering & Technology (GRIET)
 * **Department:** Computer Science & Engineering (AIML)
 * **Email (Gmail):**akkenapallibharghavi@gmail.com
